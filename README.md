@@ -7,7 +7,7 @@
 
 I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
-- 🔭 I’m currently working on unifying a few dozen web applications (and teams) into a single, seamless user experiences using a microfrontend architecture
+- 🔭 I’m currently working on unifying a few dozen web applications (and teams) into a single, seamless user experiences using a [microfrontend architecture](https://single-spa.js.org)
 - 🌱 I'm currently learning more about the Apollo GraphQL client as it pertains to client-side caching
 - 📚 I'm currently reading [Essentialism, The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Greg-McKeown-audiobook/dp/B00IWYP5NI) by Greg McKeown
 - 💬 Ask me about microfrontends, serverless applications, scaling teams and projects, removing friction for developers
