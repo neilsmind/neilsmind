@@ -7,6 +7,10 @@
 
 I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
+- 🔭 I’m currently working on unifying a few dozen web applications (and teams) into a single, seamless user experiences using a microfrontend architecture
+- 🌱 I'm currently learning more about the Apollo GraphQL client as it pertains to client-side caching
+- 📚 I'm currently reading [Essentialism, The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Greg-McKeown-audiobook/dp/B00IWYP5NI) by Greg McKeown
+- 💬 Ask me about microfrontends, serverless applications, scaling teams and projects, removing friction for developers
 
 <a href="https://github.com/neilsmind">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=neilsmind&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" alt="Neil's GitHub Stats" />
