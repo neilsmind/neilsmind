@@ -8,21 +8,6 @@
 I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
 
-### Pinned Repositories
-
-<a href="https://github.com/neilsmind/dotfiles">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neilsmind&repo=dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" />
-</a>
-<br>
-<a href="s3virtualhosting-aws-config">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neilsmind&repo=s3virtualhosting-aws-config&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" />
-</a>
-
-<a href="s3virtualhosting-vue-example">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neilsmind&repo=s3virtualhosting-vue-example&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" />
-</a>
-
-<br>
 <a href="https://github.com/neilsmind">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilsmind&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" />
 </a>
