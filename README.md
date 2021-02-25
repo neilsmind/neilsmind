@@ -9,10 +9,6 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 
 
 <a href="https://github.com/neilsmind">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilsmind&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/neilsmind">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=neilsmind&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" alt="Neil's GitHub Stats" />
 </a>
 
