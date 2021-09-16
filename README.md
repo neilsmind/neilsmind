@@ -7,16 +7,17 @@
 
 I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
-- 🔭 I’m currently working on unifying a few dozen web applications (and teams) into a single, seamless user experiences using a [microfrontend architecture](https://single-spa.js.org)
+- 🔭 I’m currently leading and effort to unify every customer facing experience (and team) into a single, seamless user experience using a [microfrontend architecture](https://single-spa.js.org)
 - 🌱 I'm currently learning more about the Apollo GraphQL client as it pertains to client-side caching
-- 📚 I'm currently reading [Essentialism, The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Greg-McKeown-audiobook/dp/B00IWYP5NI) by Greg McKeown
+- 📚 I'm currently reading [Post Corona: From Crisis to Opportunity](https://www.amazon.com/Post-Corona-Opportunity-Scott-Galloway-ebook/dp/B08HL8JYZN) by Scott Galloway
 - 💬 Ask me about microfrontends, serverless applications, scaling teams and projects, removing friction for developers
 
 <a href="https://github.com/neilsmind">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=neilsmind&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" alt="Neil's GitHub Stats" />
 </a>
 
-### Skills
+### Skills & Experience
+
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=343BC2)
@@ -76,6 +77,17 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 - [The Pragmatic Programmer, 20th Anniversary Edition your journey to mastery](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) by David Thomas & Andrew Hunt
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin (Uncle Bob)
 - [Refactoring, Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) by Martin Fowler, with Kent Beck
+
+### 2021 Reading List
+
+- [The Art of Choosing](https://www.amazon.com/Art-Choosing-Sheena-Iyengar-ebook/dp/B0035II95W) by Sheena Iyengar
+- [The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) (again) by Gene Kim
+- [Essentialism, The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Greg-McKeown-audiobook/dp/B00IWYP5NI) by Greg McKeown
+- [White Fragility](https://www.amazon.com/White-Fragility-People-About-Racism-ebook/dp/B07638ZFN1) by Robin DiAngelo
+- [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir-ebook/dp/B08FHBV4ZX) by Andy Weir
+- [Scotty](https://www.amazon.com/Scotty-Hockey-Life-Like-Other-ebook/dp/B07T2VNRF5) by Ken Dryden
+- [Burke's Law](https://www.amazon.com/dp/B087B58BYJ) by Brian Burke
+
 
 ### Favorite Software Engineering Podcasts
 
