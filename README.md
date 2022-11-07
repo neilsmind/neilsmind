@@ -5,11 +5,11 @@
 
 > ### The world is run by those who show up - _Robert B. Johnson_
 
-I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
+I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My personal mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
 - 🔭 I’m currently leading and effort to unify every customer facing experience (and team) into a single, seamless user experience using a [microfrontend architecture](https://single-spa.js.org)
-- 🌱 I'm currently learning more about the Apollo GraphQL client as it pertains to client-side caching
-- 📚 I'm currently reading [Post Corona: From Crisis to Opportunity](https://www.amazon.com/Post-Corona-Opportunity-Scott-Galloway-ebook/dp/B08HL8JYZN) by Scott Galloway
+- 🌱 I'm currently digging pretty deeply into [Amazon Cloudwatch Evidently](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Evidently.html) as an enterprise feature management solution (and determine how it compares to LaunchDarkly)
+- 📚 I'm currently reading [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM) by Nicole Forsgren PhD, Jez Humble, and Gene Kim
 - 💬 Ask me about microfrontends, serverless applications, scaling teams and projects, removing friction for developers
 
 <a href="https://github.com/neilsmind">
@@ -18,6 +18,7 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 
 ### Skills & Experience
 
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon%20aws&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=343BC2)
@@ -61,7 +62,6 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/New%20Relic-informational?style=flat&logo=New-Relic&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/Google%20Analytics-informational?style=flat&logo=Google-Analytics&logoColor=white&color=343BC2)
-![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon%20aws&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/MS%20Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/Linode-informational?style=flat&logo=linode&logoColor=white&color=343BC2)
 ![](https://img.shields.io/badge/DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=343BC2)
@@ -78,6 +78,14 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin (Uncle Bob)
 - [Refactoring, Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html) by Martin Fowler, with Kent Beck
 
+### 2022 Reading List
+
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B09JWT9S4D) by Matthew Skelton and Manual Pais
+- [Beyond Collaboration Overload: How to Work Smarter, Get Ahead, and Restore Your Well-Being](https://www.amazon.com/Beyond-Collaboration-Overload-Smarter-Well-Being-ebook/dp/B08T219DQC) by Robert L. Cross
+- [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471) by Jurgen Appelo
+- [Getting to Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without-ebook/dp/B0051SDM5Q) by Roger Fisher
+- [Radical Candor](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity-ebook/dp/B07P9LPXPT) (Re-read this favorite to share with book club) by Kim Scott
+
 ### 2021 Reading List
 
 - [The Art of Choosing](https://www.amazon.com/Art-Choosing-Sheena-Iyengar-ebook/dp/B0035II95W) by Sheena Iyengar
@@ -87,6 +95,7 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 - [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir-ebook/dp/B08FHBV4ZX) by Andy Weir
 - [Scotty](https://www.amazon.com/Scotty-Hockey-Life-Like-Other-ebook/dp/B07T2VNRF5) by Ken Dryden
 - [Burke's Law](https://www.amazon.com/dp/B087B58BYJ) by Brian Burke
+- [Post Corona: From Crisis to Opportunity](https://www.amazon.com/Post-Corona-Opportunity-Scott-Galloway-ebook/dp/B08HL8JYZN) by Scott Galloway
 
 
 ### Favorite Software Engineering Podcasts
