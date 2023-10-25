@@ -7,9 +7,9 @@
 
 I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My personal mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
-- 🔭 I’m currently leading and effort to unify every customer facing experience (and team) into a single, seamless user experience using a [microfrontend architecture](https://single-spa.js.org)
-- 🌱 I'm currently digging pretty deeply into [Amazon Cloudwatch Evidently](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Evidently.html) as an enterprise feature management solution (and determine how it compares to LaunchDarkly)
-- 📚 I'm currently reading [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM) by Nicole Forsgren PhD, Jez Humble, and Gene Kim
+- 🔭 I’m currently leading the design and development of a multi-instance digital experience platform that ensures seamless experiences while empowering autonomous teams
+- 🌱 I'm currently digging pretty deeply into delivery (and caching) optimization options for a multi-billion user platform to optimize cost AND deliver faster time to first byte (TTFB)
+- 📚 I'm currently reading [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://a.co/d/do2eoF9) by  Jez Humble, Joanne Molesky, Barry O'Reilly
 - 💬 Ask me about microfrontends, serverless applications, scaling teams and projects, removing friction for developers
 
 <a href="https://github.com/neilsmind">
