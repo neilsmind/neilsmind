@@ -84,6 +84,7 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 
 - [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://a.co/d/do2eoF9) by  Jez Humble, Joanne Molesky, Barry O'Reilly
 - [Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working](https://a.co/d/bu4sfUx) by Matthew Skelton, Manuel Pais
+- [Remote Not Distant: Design a Company Culture That Will Help You Thrive in a Hybrid Workplace](https://a.co/d/ioGaZlL) by Gustavo Razzetti
 
 ### 2023 Reading List
 
