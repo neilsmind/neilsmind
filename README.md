@@ -7,10 +7,10 @@
 
 I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverless architect, leader, and recovering entrepreneur.  My personal mission is to help software engineers find joy in their work by sharing knowledge and reducing friction.
 
-- 🔭 I’m currently leading the design and development of a multi-instance digital experience platform that ensures seamless experiences while empowering autonomous teams
-- 🌱 I'm currently digging pretty deeply into delivery (and caching) optimization options for a multi-billion user platform to optimize cost AND deliver faster time to first byte (TTFB)
-- 📚 I'm currently reading [The Medici (Italian Histories)](https://a.co/d/35Wh5Ad) and [Engineering Management for the Rest of Us](https://a.co/d/4G0Qfun)
-- 💬 Ask me about microfrontends, serverless applications, scaling teams and projects, removing friction for developers
+- 🔭 I’m currently developing a technical and product strategy for taking a platform serving 1.5 billion unique visitors per month to the next level
+- 🌱 I'm currently digging pretty deeply into artificial intelligence as applied to high-scale, personalized digital experiences
+- 📚 I'm currently reading [Strategy from the Outside In](https://a.co/d/gzNQWtj), [Transformed: Moving to the Product Operating Model](https://a.co/d/aT1OJsN) and [An Elegant Puzzle: Systems of Engineering Management](https://a.co/d/cVZGJsW)
+- 💬 Ask me about high-scale digital-experience delivery, microfrontends, serverless applications, scaling teams and projects, removing friction for product engineering teams
 
 <a href="https://github.com/neilsmind">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=neilsmind&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=898EFF&bg_color=1A2B34" alt="Neil's GitHub Stats" />
@@ -83,8 +83,16 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 ### In my queue...
 
 - [Lean Enterprise: How High Performance Organizations Innovate at Scale](https://a.co/d/do2eoF9) by  Jez Humble, Joanne Molesky, Barry O'Reilly
-- [Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working](https://a.co/d/bu4sfUx) by Matthew Skelton, Manuel Pais
 - [Remote Not Distant: Design a Company Culture That Will Help You Thrive in a Hybrid Workplace](https://a.co/d/ioGaZlL) by Gustavo Razzetti
+
+### 2024 Reading List
+
+- [Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working](https://a.co/d/bu4sfUx) by Matthew Skelton, Manuel Pais
+- [The 5am Club: Own your morning. Elevate your life](https://a.co/d/3gvi0Je) by Robin Sharma
+- [Antoni Gaudi: The life and legacy of the Architect of Catalan Modernism](https://a.co/d/gK4T6Bo) by Charles Rivers Editor
+- [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad](https://a.co/d/50RKAeC) by James Clear
+- [Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential](https://a.co/d/f02yUQy) by Tiago Forte
+
 
 ### 2023 Reading List
 
@@ -116,6 +124,9 @@ I'm Neil -- husband, father, coach, live (sports) streamer, programmer, serverle
 - [Burke's Law](https://www.amazon.com/dp/B087B58BYJ) by Brian Burke
 - [Post Corona: From Crisis to Opportunity](https://www.amazon.com/Post-Corona-Opportunity-Scott-Galloway-ebook/dp/B08HL8JYZN) by Scott Galloway
 
+
+### Favorite Product Related Podcasts
+- [Lenny's Podcast: Product | Growth | Career](https://www.lennysnewsletter.com/podcast)
 
 ### Favorite Software Engineering Podcasts
 
